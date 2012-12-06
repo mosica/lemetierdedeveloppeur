@@ -33,3 +33,25 @@ p.quote {
     -o-transition-delay:      0.25s;
     transition-delay:         0.25s;
 }
+
+#ready p, #go p {
+    font-size : 4em;
+}
+#go p img {
+    vertical-align: middle;
+	padding-right: 20px;
+}
+
+h1.menu {
+	font-size: 2em;
+	color: #000044;
+}
+
+h1.title {
+	font-size: 1.7em;
+	color: #555555;
+}
+
+#morts img {
+	padding-top: 30px;
+}
